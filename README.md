@@ -1,4 +1,4 @@
-# TIS-Assignments
+# TIS-Reflections
 My reflection for every assignments for the subject (Technology and Information System) throughout the semester.
 
 ## <i>This section include</i>
